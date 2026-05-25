@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordereync",
+        "uuid": 9030,
+        "checksum": "j454va"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
